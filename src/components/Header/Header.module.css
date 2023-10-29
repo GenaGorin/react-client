@@ -1,0 +1,10 @@
+.header {
+    display: flex;
+}
+.header a {
+    margin-right: 16px;
+    color: #cac1c1;
+}
+.header a[class="active"] {
+    color: #fff;
+}
